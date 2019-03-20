@@ -7,7 +7,12 @@
  */
 
 // Your code :
-
+function id(pouet){
+    return pouet ;
+}
+// assert = id => id(5){
+//     return 5
+// }
 //* Begin of tests
 const assert = require('assert')
 
